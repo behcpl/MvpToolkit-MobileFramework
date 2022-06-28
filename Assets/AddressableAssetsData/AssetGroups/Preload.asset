@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Preload
+  m_EditorClassIdentifier: 
+  m_GroupName: Preload
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ab42989c8be3f6f499bdb4c0493bd853
+  m_SerializeEntries:
+  - m_GUID: 6e28bde41e3f7504d83d1cc90c7e7003
+    m_Address: Assets/TextMesh Pro/Bundle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e255e561528670543bf27f5fd8907d15
+    m_Address: RootScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b030b5f7e2a63774b8333a4418a767ec
+    m_Address: Assets/CommonAssets/CommonAssets.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f7d522fa3649484ba61f92d02f1f691
+    m_Address: Assets/CommonAssets/DefaultSlotCurtainOptions.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f66f8dba85acd614d91710862211a522
+    m_Address: Packages/com.behc.mvptoolkit/Runtime/MiniTween/MiniTweenOptions.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a7ced942550bf1f4480b6e398cc49895, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 36c08ffa613b06d458d55719d066184e, type: 2}
+    - {fileID: 11400000, guid: cf93cf626b529774ca45f8a43b7def39, type: 2}

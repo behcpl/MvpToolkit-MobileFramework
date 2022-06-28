@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a8553a3b3e4b3ba3b1db18321ddf53, type: 3}
+  m_Name: LoaderConfigurator
+  m_EditorClassIdentifier: 
+  _subConfigurators: []
+  _loaderPanelPresenter: {fileID: 7018844929346221553, guid: 224a6e805b723c24d8f7dec47bd9e7ae, type: 3}
